@@ -1,0 +1,9 @@
+*.old
+*.rpm
+*.src.rpm
+*.tar.gz
+
+fedora-media
+ffmpeg
+golang*
+sphinx
